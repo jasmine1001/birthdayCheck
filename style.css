@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(194, 144, 152);
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    width : 50%;
+margin: auto;
+}
+input , label{
+    display: block;
+}
+
+input{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+
+#check-number{
+    display: block;
+    margin-top: 1rem;
+}
+
+#output{
+display: block;
+margin: 0%;
+width: 275px;
+height: 50px;
+
+}
